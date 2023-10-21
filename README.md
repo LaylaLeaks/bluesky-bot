@@ -5,7 +5,6 @@
 - Install Typescript `npm i -g typescript`
 - Install Node.js `npm i -g ts-node`
 - Make a copy of the example `.env`. Set your username and password in `.env`. Use an App Password.
-- Install npm packages: `npm i @atproto/api dotenv cron process`
 
 ## Running the script
 
