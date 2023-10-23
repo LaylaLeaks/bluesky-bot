@@ -29,3 +29,6 @@ const scheduleExpression = '0 */3 * * *'; // Run once every three hours in prod
 const job = new CronJob(scheduleExpression, main); // change to scheduleExpressionMinute for testing
 
 job.start();
+
+// You need help?
+// Send me a message on discord, the name is layla.06
